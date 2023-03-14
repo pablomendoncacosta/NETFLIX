@@ -1,0 +1,186 @@
+footer{
+    height: 50px;
+}
+.hr{
+    background-color: #222222ba;
+    height: 10px;
+}
+.planos-sans{
+    height: 30px;
+    display: flex;
+    max-width:430px;
+    text-align: center;
+    margin: auto;
+}
+.novo{
+    background-color:#E50914;
+    width: 50px;
+    height: 17px;
+    margin:rgb(229, 9, 20);
+    font-size: 10pt;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    color:white;
+}
+.novo:hover{
+    text-decoration:underline;
+}
+.planos-prç{
+    font-size: 17pt;
+    margin: auto;
+    margin-right: 20px;
+}
+.saiba-mais{
+    font-size: 16px;
+    margin: auto;
+    text-align: center;
+}
+.net{
+   height: 550px;
+    background-image: url("NETIFLEX.jpg");
+    background-repeat: no-repeat;
+    background-size: 1350px;
+}
+.center-net{
+    display: flex;
+    width: 2200px;
+    height: 100px;
+    margin: auto;
+}
+.caixa-sans{
+    display: flex;
+    width: 2445px;
+}
+.caixa-text{
+    display: flex;
+    margin: auto;
+    width: 150px;
+}
+.textpor{
+    text-align: center;
+    margin: auto;
+    color: white;
+    background-color:#020101;
+    box-shadow: 1px 1px 1px #aaaaaa;
+    width: 50px;
+    height: 25px;
+    border-radius: 2px;
+}
+.entrar{
+    text-align: center;
+    margin: auto;
+    width: 60px;
+    height: 25px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #E50914;
+}
+
+.netflix{
+    display: flex;
+  margin: auto;
+}
+.text-sub h1{
+    margin-top: 100px;
+    text-align: center;
+    color: #ffff;
+    font-size: 45px;
+}
+.text-sub h2{
+    color:#ffff;
+    text-align: center;
+    font-size: 24px;
+}
+.text-sub p{
+    color: #ffff;
+    text-align: center;
+    font-size: 19px;
+}
+.text-sub :hover{
+    text-decoration: underline;
+}
+.realt-ass{
+    display: flex;
+    margin: auto;
+width:555px;
+ text-align: center;
+}
+.realt-email input{
+    margin: auto;
+    height: 45px;
+    width: 400px;
+    box-shadow: 2px 2px 2px #aaaaaa94;
+}
+.realt-vamos input{
+    margin: auto;
+    width: 180px;
+    height: 50px;
+    font-size: 26px;
+    color: white;
+    text-decoration: none;
+    background-color: #E50914;
+    box-shadow: 2px 2px 2px black;
+}
+.story-card{
+    display: flex;
+    height:550px ;
+    background-color: rgb(0,0,0);
+}
+.story-text{
+    text-align: center;
+    margin: auto;
+}
+.story-text h1{
+    text-align: left;
+    color: white;
+    font-size:50px;
+}
+.story-text h2{
+    text-align: justify;
+    color: white;
+    font-size: 26px;
+}
+.story-text :hover{
+    text-decoration: underline;
+}
+.story-video {
+    text-align: right;
+    margin: auto;
+}
+.story-text-aqq{
+    text-align: center;
+    margin: auto;
+}
+.story-text-aqq h1{
+    text-align: right;
+    color: white; 
+    font-size:50px ;
+}
+.story-text-aqq h2{
+    text-align: justify;
+    color: white;
+    font-size: 26px;
+}
+.story-video-aqq {
+    text-align: left;
+    margin: auto;
+}
+.story-card-dt{
+    display: flex;
+    margin: auto;
+}
+.story-video-bs{
+    margin: auto;
+}
+.story-text-bs{
+    color: white;
+    margin: auto;
+}
+.story-text-bs h1{
+    font-size: 48px;
+}
+.story-text-bs h2{
+    font-size: 24px;
+}
